@@ -1,4 +1,4 @@
 module.exports = {
-    database: process.env.MONGODB_URL || 'mongodb://localhost:27017/mydatabase',
+    database: process.env.MONGODB_URL || 'mongodb+srv://delaneybaker:Ranger@cluster0.hvhskhu.mongodb.net/',
   };
 //mongodb 
